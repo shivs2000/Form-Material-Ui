@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Form-Material-Ui/static/css/main.00c8a4a3.chunk.css",
+    "main.js": "/Form-Material-Ui/static/js/main.a76aa5f1.chunk.js",
+    "main.js.map": "/Form-Material-Ui/static/js/main.a76aa5f1.chunk.js.map",
+    "runtime-main.js": "/Form-Material-Ui/static/js/runtime-main.4945b7e7.js",
+    "runtime-main.js.map": "/Form-Material-Ui/static/js/runtime-main.4945b7e7.js.map",
+    "static/css/2.2bbe33c5.chunk.css": "/Form-Material-Ui/static/css/2.2bbe33c5.chunk.css",
+    "static/js/2.17e4ee70.chunk.js": "/Form-Material-Ui/static/js/2.17e4ee70.chunk.js",
+    "static/js/2.17e4ee70.chunk.js.map": "/Form-Material-Ui/static/js/2.17e4ee70.chunk.js.map",
+    "static/js/3.2840731c.chunk.js": "/Form-Material-Ui/static/js/3.2840731c.chunk.js",
+    "static/js/3.2840731c.chunk.js.map": "/Form-Material-Ui/static/js/3.2840731c.chunk.js.map",
+    "index.html": "/Form-Material-Ui/index.html",
+    "static/css/2.2bbe33c5.chunk.css.map": "/Form-Material-Ui/static/css/2.2bbe33c5.chunk.css.map",
+    "static/css/main.00c8a4a3.chunk.css.map": "/Form-Material-Ui/static/css/main.00c8a4a3.chunk.css.map",
+    "static/js/2.17e4ee70.chunk.js.LICENSE.txt": "/Form-Material-Ui/static/js/2.17e4ee70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4945b7e7.js",
+    "static/css/2.2bbe33c5.chunk.css",
+    "static/js/2.17e4ee70.chunk.js",
+    "static/css/main.00c8a4a3.chunk.css",
+    "static/js/main.a76aa5f1.chunk.js"
+  ]
+}
